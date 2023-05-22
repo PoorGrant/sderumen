@@ -1,4 +1,4 @@
-# sderumen
+# 程序员找工手册
 
 :wave:一起编辑程序员求职攻略
 
@@ -31,4 +31,13 @@ Team Match<br> 1.这个很看个人项目和组的匹配情况，及人脉情况
 Other Resources：<br>
 1.Grokking the System Design Interview<br> 2. Udemy<br> 3. Linkedin Learning<br> 4. Tech Crunch<br> 5. Google I/O<br> 6. Medium<br> 7. F8 Refresh<br> 8. AWS Reinvent<br>
 
-    :smile::smile::smile:
+:smile::smile::smile:欢迎大家，评论，收藏，转发。完全以大家的信息和需求为导向，优化后续内容。
+---
+后续可更新内容<br>
+    1. 找工渠道<br>
+    2. 做项目网站<br>
+    3. 需要学习的技术栈，到哪去找免费及付费资源<br>
+    4. 如何了解Git，Linux，K8，AWS等等<br>
+    5. 题库<br>
+    6. 面经<br>
+    7. BQ准备<br>
